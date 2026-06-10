@@ -26,27 +26,32 @@ Passionate about transforming data into actionable insights and business solutio
 
 ## 📂 Featured Projects
 
-### 🚇 Transport for London (TfL) Analysis
+### 🚇 [Transport for London (TfL) Analysis](https://github.com/Jaswanthkumar-1/TFL-Commuter-Intelligence-Dashboard)
+
 **Tools:** SQL, Excel, Power BI
 
 Analyzed Transport for London operational data to identify passenger trends, route performance, peak-hour demand, and service efficiency. Developed dashboards and insights to support data-driven decision making.
 
-### 📦 Supply Chain Analytics
+### 📦 [Supply Chain Analytics](https://github.com/Jaswanthkumar-1/Supply_Chain_Project)
+
 **Tools:** Power BI, SQL, Excel
 
 Built an end-to-end supply chain dashboard to monitor inventory levels, supplier performance, order fulfillment, logistics efficiency, and key operational KPIs.
 
-### ✈️ Air Cargo Business Analysis
+### ✈️ [Air Cargo Business Analysis](https://github.com/Jaswanthkumar-1/Air-Cargo-Analysis)
+
 **Tools:** SQL, Excel
 
 Performed analysis of cargo operations, customer trends, revenue performance, and route utilization using advanced SQL queries.
 
-### 📊 E-Commerce Sales Dashboard
+### 📊 [E-Commerce Sales Dashboard](https://github.com/Jaswanthkumar-1/Excel-Ecommerce-Dashboard)
+
 **Tools:** Excel, Power Query
 
 Developed an interactive dashboard for sales analysis, profit tracking, customer segmentation, and product performance monitoring.
 
-### 🤖 App Rating Prediction
+### 🤖 [App Rating Prediction](https://github.com/Jaswanthkumar-1/App-Rating-Prediction)
+
 **Tools:** Python, Pandas, Machine Learning
 
 Built a predictive model to estimate Google Play Store app ratings using feature engineering and machine learning techniques.
