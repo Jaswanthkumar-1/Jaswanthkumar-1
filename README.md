@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaswanth Kumar
 
-<!--
-**Jaswanthkumar-1/Jaswanthkumar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Power BI
 
-Here are some ideas to get you started:
+Passionate about transforming data into actionable insights and business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+
+### Languages & Libraries
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Data Tools
+- Power BI
+- Excel
+- Tableau
+- Jupyter Notebook
+
+### Other Tools
+- GitHub
+- VS Code
+
+## 📂 Projects
+
+- Excel E-Commerce Dashboard
+- Air Cargo Analysis
+- App Rating Prediction
+- HackerRank Solutions
+- GeeksForGeeks Practice
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Advanced SQL
+- Data Engineering
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn link
+- Email: Add your email
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaswanthkumar-1&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthkumar-1&layout=compact)
